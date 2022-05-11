@@ -33,7 +33,7 @@
 粒子特效来自[VincentGarreau](https://github.com/VincentGarreau/particles.js)
 </div>
 
-## API
+## API（已无法使用）
 
 #### 不带参数申请
 
