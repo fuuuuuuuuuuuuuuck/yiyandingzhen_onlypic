@@ -1,12 +1,14 @@
-![](https://github.com/PencilCore/yiyandingzhen/blob/main/poster.png)
+
 
 <div align="center">
 
 # 义眼丁真
 
 ### 本站点已经完全停止服务
+        此仓库仅作为图片备份
+        与原网站作者无关
 
-[义眼丁真收集站](https://www.yiyandingzhen.top)
+[义眼丁真收集站](https://baidu.com)
 
 </div>
 
@@ -33,79 +35,4 @@
 粒子特效来自[VincentGarreau](https://github.com/VincentGarreau/particles.js)
 </div>
 
-## API（已无法使用）
-
-#### 不带参数申请
-
-
-        https://www.yiyandingzhen.top/getpic.php
-
-
-```
-[
-    {
-        "fore": {
-            "0": "鱼眼丁真",
-            "fore": "鱼眼丁真"
-        },
-        "mid": {
-            "0": "鉴定为",
-            "mid": "鉴定为"
-        },
-        "suffix": {
-            "0": "闹滩",
-            "suffix": "闹滩"
-        },
-        "picpath": {
-            "0": "pic/194_yuyandingzhen.jpg",
-            "pic_path": "pic/194_yuyandingzhen.jpg"
-        },
-        "rand_status": null,
-        "rand": 194,
-        "request-id": null,
-        "verified": {
-            "0": "1",
-            "verified": "1"
-        }
-    }
-]
-```
-
-#### 带参数申请
-
-如果没有对应图片将返回随机图片
-
-
-        https://www.yiyandingzhen.top/getpic.php?id=0
-
-
-```
-[
-  {
-    "fore": {
-      "0": "\u963f\u739b\u96c5 \u4f0a\u9633\u4e01\u771f",
-      "fore": "\u963f\u739b\u96c5 \u4f0a\u9633\u4e01\u771f"
-    },
-    "mid": {
-      "0": "\u9274\u5b9a\u4e3a",
-      "mid": "\u9274\u5b9a\u4e3a"
-    },
-    "suffix": {
-      "0": "\u7eaf\u7eaf\u7684\u65f1\u5978",
-      "suffix": "\u7eaf\u7eaf\u7684\u65f1\u5978"
-    },
-    "picpath": {
-      "0": "pic\/384_emaya yiyangdingzhen.jpg",
-      "pic_path": "pic\/384_emaya yiyangdingzhen.jpg"
-    },
-    "rand_status": null,
-    "rand": 384,
-    "request-id": null,
-    "verified": {
-      "0": "1",
-      "verified": "1"
-    }
-  }
-]
-```
 
