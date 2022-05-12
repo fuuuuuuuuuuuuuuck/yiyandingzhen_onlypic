@@ -1,0 +1,42 @@
+#comments-on-button
+{
+    position: absolute;
+    bottom: -60px;
+}
+
+#comments-section{
+    display: none;
+    box-shadow: 0 -1rem 5rem rgba(0, 0, 0, 0.505);
+    border-radius: 10px;
+    background-color: rgb(251, 251, 251);
+    height: 1000px;
+    position: absolute;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    top: 50%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    line-height: 10px;
+    z-index:100;   
+    transition: min-width 0.2s  ease-in-out; 
+}
+
+.comments-result{
+    width: auto;
+    box-shadow: 0 -0.1rem 1rem rgba(0, 0, 0, 0.179);
+    padding: 20px;
+}
+
+.comments-content{
+    margin: 10px 0 10px 0;
+}
+.comments-id{
+    display: inline-block;
+    font-size: 10px;
+}
+.comments-time{
+    display: inline-block;
+    font-size: 13px;
+}

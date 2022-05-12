@@ -1,5 +1,4 @@
 html{
-    overflow: hidden;
     overflow-x: hidden;
 }
 
@@ -11,6 +10,9 @@ body{
     font-family:zcool Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,微软雅黑,Arial,sans-serif;
 }
 
+#particles-js{
+    position: fixed !important;
+}
 
 .blurbox{
     transition: all 1s cubic-bezier(0.075, 0.82, 0.165, 1);
@@ -103,7 +105,7 @@ width: 100%;
     height: 350px;
     min-width: 300px;
     width: fit-content;
-    position: absolute;
+    position: fixed;
     margin: auto;
     padding: 20px;
     top: 0;
@@ -155,7 +157,7 @@ width: 100%;
 
 #bg-text{
     opacity: 0;
-    position: absolute;
+    position: fixed;
     z-index: 15;
     margin: auto;
     font-size: 150px;
@@ -365,7 +367,7 @@ width: 100%;
         height: 350px;
         min-width: 700px;
         width:max-content;
-        position: absolute;
+        position: fixed;
         margin: auto;
         padding: 20px;
         top: 0;
@@ -444,6 +446,7 @@ width: 100%;
     }
 
     #bg-text{
+        position: fixed;
         opacity: 1;
     }
 }
@@ -460,9 +463,11 @@ width: 100%;
     height: 100px;
     box-shadow: 0 -1rem 4rem rgba(47, 47, 47, 0.733);
 }
+
 #pic-box-icon-img:hover #icon-site-info{
     display: block;
 }
+
 #pic{
     width: auto;
         display: flex;
