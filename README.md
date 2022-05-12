@@ -7,6 +7,7 @@
 ### 本站点已经完全停止服务
         此仓库仅作为图片备份
         与原网站作者无关
+        另一个库：https://github.com/BlinkDL/YYDZ
 
 [义眼丁真收集站](https://baidu.com)
 
