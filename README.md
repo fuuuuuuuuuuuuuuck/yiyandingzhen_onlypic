@@ -7,7 +7,7 @@
 ### 这是一个致力于收集所有义眼xx的网站，拥有人工审核机制。
         为了安全，此分支不可以被"Pull requests"到"main"
         使用backup分支，来避免对原作者的影响
-        已经将网址以及其他关键此替换为 baidu搜索引擎 or "xx"
+        已经将网址以及其他关键词替换为 baidu搜索引擎 or "xx"
 [义眼xx收集站](https://www.baidu.com)
 
 </div>
