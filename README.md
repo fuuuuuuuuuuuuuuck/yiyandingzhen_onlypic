@@ -6,6 +6,8 @@
 
 ### 已停止服务
         为了安全，此分支不可以被"Pull requests"到"main"
+        为了防止被烟哥发函，main中图片被删除
+        **此分支不可以被"Pull requests"到"main"**
 [义眼xx收集站](https://www.baidu.com)
 
 </div>
