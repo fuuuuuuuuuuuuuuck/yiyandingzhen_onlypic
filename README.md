@@ -5,8 +5,7 @@
 # 义眼丁真
 
 ### 已停止服务
-        为了安全，此分支不会被Pull requests
-        并且将会备份到备份分支
+        为了安全，此分支不可以被"Pull requests"到"main"
 [义眼丁真收集站](https://www.baidu.com)
 
 </div>
