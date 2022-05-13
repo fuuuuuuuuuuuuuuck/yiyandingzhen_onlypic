@@ -8,6 +8,7 @@
         此仓库仅作为图片备份
         与原网站作者无关
         另一个库：https://github.com/BlinkDL/YYDZ
+        以及：https://github.com/Brx86/DingZhen
 
 [义眼丁真收集站](https://baidu.com)
 
