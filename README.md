@@ -5,8 +5,10 @@
 # 义眼丁真
 
 ### 这是一个致力于收集所有义眼丁真的网站，拥有人工审核机制。
-
-[义眼丁真收集站](https://www.yiyandingzhen.top)
+        为了安全，此分支不会被Pull requests
+        并且将会备份到备份分支
+        
+[义眼丁真收集站](https://www.baidu.com)
 
 </div>
 
@@ -38,7 +40,7 @@
 #### 不带参数申请
 
 
-        https://www.yiyandingzhen.top/getpic.php
+        https://www.baidu.com/getpic.php
 
 
 ```[
@@ -75,7 +77,7 @@
 如果没有对应图片将返回随机图片
 
 
-        https://www.yiyandingzhen.top/getpic.php?id=0
+        https://www.baidu.com/getpic.php?id=0
 
 
 ```[
