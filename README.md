@@ -6,6 +6,7 @@
 
 ### 本站点已经完全停止服务
         此仓库仅作为图片备份
+        仅供用于学术研究用途！！！
         与原网站作者无关
         另一个库：https://github.com/BlinkDL/YYDZ
         以及：https://github.com/Brx86/DingZhen
