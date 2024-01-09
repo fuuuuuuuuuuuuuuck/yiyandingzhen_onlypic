@@ -12,7 +12,7 @@
         与原网站作者无关
         另一个库：https://github.com/BlinkDL/YYDZ
         以及：https://github.com/Brx86/DingZhen
-
+        第753张 753_eshendun.jpg 为webshell 已经在库中删除
 [义眼丁真收集站](https://baidu.com)
 
 </div>
